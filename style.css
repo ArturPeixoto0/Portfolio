@@ -125,7 +125,6 @@ scroll-margin-top: 150px;
     display: flex;
 }
 .texto {
-    flex-direction: column;
     flex: 1;
 }
 
